@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgr",
+    "password": "postgr",
+    "database": "postgr",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": "8001"
+  },
+  "test": {
+    "username": "postgre",
+    "password": "postgre",
+    "database": "postgre",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgre",
+    "password": "postgre",
+    "database": "postgre",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
